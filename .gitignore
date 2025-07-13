@@ -57,3 +57,4 @@ thirdparty/
 *.d
 build/
 fan/
+.cache
